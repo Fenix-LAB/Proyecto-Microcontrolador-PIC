@@ -1,0 +1,27 @@
+[PROJECT]
+Target=ProyectoPICC.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=ProyectoPICC.c
+[Directories]
+Include=D:\Aplicaciones\PICC\Devices\;D:\Aplicaciones\PICC\Drivers\
+[D:\Documentos\Pic C Compiler\ProyectoPICC]
+Type=4
+[mru-list]
+1=ProyectoPICC.c
+[Opened Files]
+1=ProyectoPICC.c
+2=..\..\Aplicaciones\PICC\Drivers\lcd.c
+3=ProyectoPICC.h
+4=..\..\Aplicaciones\PICC\Devices\16F877A.h
+5=C:\Users\Christian Rodriguez\Documents\Documentos\Pic C Compiler\TONES.C
+6=C:\Users\Christian Rodriguez\Documents\Documentos\Pic C Compiler\kbd4x4_1.C
+7=
+[ProyectoPICC.c]
+Type=4
+[Units]
+Count=1
+1=ProyectoPICC (main)
